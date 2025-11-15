@@ -5,17 +5,17 @@ Java implementations of AI search algorithms
 This repository contains a collection of Artificial Intelligence assignments implemented in Java.
 The tasks focus on classical search algorithms used in problem-solving and path-finding, including:
 
-Depth-First Search (DFS)
+-Depth-First Search (DFS)
 
-Breadth-First Search (BFS)
+-Breadth-First Search (BFS)
 
-Uniform Cost Search (UCS)
+-Uniform Cost Search (UCS)
 
-A* Search
+-A* Search
 
-Iterative Deepening search (IDS)
+-Iterative Deepening search (IDS)
 
-Depth Limited Search (DLS) 
+-Depth Limited Search (DLS) 
 
 
 Each assignment includes:
